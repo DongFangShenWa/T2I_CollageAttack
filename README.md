@@ -18,7 +18,7 @@ This repository contains the core code for reproducing **CollageAttack**, a blac
 
 ## Environment
 
-Python 3.10+ is recommended.
+Python 3.10.
 
 Install the required packages:
 
